@@ -1,0 +1,36 @@
+
+body {
+     background-image: url(backgroundimage/quesBackground.png);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  } 
+
+  #header {
+        color: #FF5733;
+        background-color: white;
+        text-align: center;
+        font-family: cursive;
+        font-size: 23px;
+        font-style: italic;
+        padding-top: 13px;
+        padding-bottom: 5px;
+        border-radius: 20px;
+        margin: auto;
+        border-color: #FF5733;
+        border: 2px solid;
+        width: 80%;
+        
+  }
+
+  .container {
+    background-color: white;
+    line-height: 200px;
+    height: 550px;
+    border-radius: 20px;
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+   }
